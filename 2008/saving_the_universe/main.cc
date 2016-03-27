@@ -86,8 +86,6 @@ For the second case, you can use B9, and not need to make any switches.
 */
 
 /*
-0 1 2 3 4 5 6 7 8 9
-
                                 Optimal choice MUST make another choice
                                 |
                         Optimal Choice is = 7
@@ -95,7 +93,6 @@ For the second case, you can use B9, and not need to make any switches.
 2 6 3 7 4 7 9 9 3 3 6 7 4 1 2 5 7 4 3 6 8 2 5 7 1 6 4 8 9
                                 |
                                 Greedy Choice !7
-
 */
 
 #include <iostream>
